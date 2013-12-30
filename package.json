@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "version": "0.0.1",
+  "main": "index.coffee",
+  "name": "friendly-dragon-backends",
+  "description": "Friendly Dragon Backends",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MarketClouds",
+  "license": "None",
+  "dependencies": {
+    "debug": "~0.7.4",
+    "lodash": "~2.4.1",
+    "coffee-script": "~1.6.3",
+    "redis": "~0.10.0",
+    "hiredis": "~0.1.16"
+  }
+}
